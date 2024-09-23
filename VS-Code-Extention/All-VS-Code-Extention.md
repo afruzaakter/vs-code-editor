@@ -32,26 +32,29 @@
 
 ## PHP Extensions:
 
-12. PHP Intelephense
+12. **PHP Intelephense-**: PHP code intelligence for Visual Studio Code.
 
-13. PHP DocBlocker
+13. **PHP DocBlocker-**: A simple, dependency free PHP specific DocBlocking package.
 
-14. PHP Namespace Resolver
+14. **PHP Namespace Resolver-**:
+
+15. **Live Server: -** A better Live Server with instant updates, highlights and some PHP support.
+
 
 ---
 
 ## BOOST UP EDITOR:
 
-15. **Live Server (Ritwick Dey) -** Allows you to create a local development server with live reloading.
+16. **Live Server (Ritwick Dey) -** Allows you to create a local development server with live reloading.
 
-16. **Code Spell Checker (Street Side Software) -** Spelling Checker for Visual Studio Code.
+17. **Code Spell Checker (Street Side Software) -** Spelling Checker for Visual Studio Code.
 
-17. **CodeSnap (adpyke) -** Simplifies the process of taking code screenshots.
+18. **CodeSnap (adpyke) -** Simplifies the process of taking code screenshots.
 
-18. **vscode-icons (VSCode Icons Team) -** Brings a touch of visual brilliance to your coding workspace by replacing the default file icons.
+19. **vscode-icons (VSCode Icons Team) -** Brings a touch of visual brilliance to your coding workspace by replacing the default file icons.
 
-19. **GitLens (GitKraken) -** It is a powerful extension that integrates Git capabilities directly into your editor.
+20. **GitLens (GitKraken) -** It is a powerful extension that integrates Git capabilities directly into your editor.
 
-20. **Code Runner (Jun Han) -** Provides a convenient way to quickly run code snippets or entire files in various programming languages from within Visual Studio Code.
+21. **Code Runner (Jun Han) -** Provides a convenient way to quickly run code snippets or entire files in various programming languages from within Visual Studio Code.
 
 
